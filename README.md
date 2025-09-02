@@ -2,14 +2,14 @@
 
 👨‍💻 Atualmente focado nos estudos e no desenvolvimento de projetos para construir meu portfólio.
 
-  ● Estou sempre aprendendo sobre novas tecnologias e aprimorando minhas habilidades.
+&nbsp;● Estou sempre aprendendo sobre novas tecnologias e aprimorando minhas habilidades.
 
-  ● Em busca de novas oportunidades para continuar crescendo na área de desenvolvimento!
+&nbsp;● Em busca de novas oportunidades para continuar crescendo na área de desenvolvimento!
 
-  ● Tive minha primeira experiência profissional como Estagiário/Desenvolvedor Jr. na Audtax (03/06/2024 - 25/02/2025).
+&nbsp;● Tive minha primeira experiência profissional como Estagiário/Desenvolvedor Jr. na Audtax (03/06/2024 - 25/02/2025).
 
 ## Formação:
-  ● Tecnológo em Analise e desenvolvimentos de sistemas na Fatec (2023 - 2026)
+&nbsp;● Tecnológo em Analise e desenvolvimentos de sistemas na Fatec (2023 - 2026)
 
 ## Contato:
 <a href="https://www.instagram.com/andreluisxw_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
