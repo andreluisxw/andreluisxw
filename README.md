@@ -26,18 +26,6 @@ GitHub Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisxw&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true" />
-</picture>
-
 Tecnologias que trabalho:
 <div style="display: inline_block"><br>
 <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
