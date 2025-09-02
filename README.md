@@ -22,13 +22,15 @@ GitHub Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisxw&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
-</div>
+<div align="center">``
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisxw&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">``
+</div>``
 
-<div align="center">
-  <img src="https://github.com/andreluisxw/andreluisxw/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 Tecnologias que trabalho:
 <div style="display: inline_block"><br>
