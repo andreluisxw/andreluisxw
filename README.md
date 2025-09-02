@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+GitHub Stats:
+<div>
+<a href="https://github.com/andreluisxw">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisxw&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
+</div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=dark"
