@@ -1,7 +1,7 @@
 ## Olá, eu sou o André 👋
-<br>
 
 * 👨‍💻 Atualmente focado nos estudos e no desenvolvimento de projetos para construir meu portfólio.
+  
 * Já atuei como Estagiário / Dev Jr em Desenvolvimento Back-End pela Audtax (03/06/2024 - 25/02/2025).
 
 ---
