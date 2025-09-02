@@ -49,6 +49,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   &nbsp;
+  <img src="https://img.shields.io/badge/Postgresql-7952B3?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
+  &nbsp;
 </p>
 
 <picture align="center">
