@@ -49,7 +49,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   &nbsp;
-  <img src="https://img.shields.io/badge/Postgresql-7952B3?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   &nbsp;
 </p>
 
