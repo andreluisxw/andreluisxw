@@ -27,7 +27,7 @@ GitHub Stats:
 </div>
 
 <div align="center">
-  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/andreluisxw/andreluisxw/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 Tecnologias que trabalho:
