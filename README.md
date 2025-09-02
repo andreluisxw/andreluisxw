@@ -1,15 +1,15 @@
 ## Olá, eu sou o André 👋
+<br>
 
-👨‍💻 Atualmente focado nos estudos e no desenvolvimento de projetos para construir meu portfólio.
+* 👨‍💻 Atualmente focado nos estudos e no desenvolvimento de projetos para construir meu portfólio.
+* ● Já atuei como Estagiário / Dev Jr em Desenvolvimento Back-End pela Audtax (03/06/2024 - 25/02/2025).
 
-&nbsp;● Estou sempre aprendendo sobre novas tecnologias e aprimorando minhas habilidades.
-
-&nbsp;● Em busca de novas oportunidades para continuar crescendo na área de desenvolvimento!
-
-&nbsp;● Tive minha primeira experiência profissional como Estagiário/Desenvolvedor Jr. na Audtax (03/06/2024 - 25/02/2025).
+---
 
 ## Formação:
-&nbsp;● Tecnológo em Analise e desenvolvimentos de sistemas na Fatec (2023 - 2026)
+<br>
+
+* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC (2023 - 2026).
 
 ## Contato:
 <a href="https://www.instagram.com/andreluisxw_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
