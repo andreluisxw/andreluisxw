@@ -26,6 +26,10 @@ GitHub Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreluisxw&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
 </div>
 
+<div align="center">
+  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
 Tecnologias que trabalho:
 <div style="display: inline_block"><br>
 <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
