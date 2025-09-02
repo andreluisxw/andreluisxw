@@ -2,14 +2,18 @@
 
 👨‍💻 Atualmente focado nos estudos e no desenvolvimento de projetos para construir meu portfólio.
 
-🌱 Estou sempre aprendendo sobre novas tecnologias e aprimorando minhas habilidades.
+● Estou sempre aprendendo sobre novas tecnologias e aprimorando minhas habilidades.
 
-🚀 Em busca de novas oportunidades para continuar crescendo na área de desenvolvimento!
+● Em busca de novas oportunidades para continuar crescendo na área de desenvolvimento!
 
-💡 Tive minha primeira experiência profissional como Estagiário/Desenvolvedor Jr. na Audtax (03/06/2024 - 25/02/2025).
+● Tive minha primeira experiência profissional como Estagiário/Desenvolvedor Jr. na Audtax (03/06/2024 - 25/02/2025).
 
 ## Formação:
-🎓 Tecnológo em Analise e desenvolvimentos de sistemas na Fatec (2023 - 2026)
+● Tecnológo em Analise e desenvolvimentos de sistemas na Fatec (2023 - 2026)
+
+## Contato:
+<a href="https://www.linkedin.com/in/andré-luis-maia-junior-06386a2a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 GitHub Stats:
 <div>
