@@ -61,3 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreluisxw/andreluisxw/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andreluisxw/andreluisxw/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
