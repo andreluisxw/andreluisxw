@@ -19,8 +19,8 @@
 
 ## GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=black-ice)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=transparent&bg_color=151515&border_color=5a5a5a&title_color=00e5fd&icon_color=00e5fd&text_color=ffffff&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&theme=transparent&bg_color=151515&border_color=5a5a5a&title_color=00e5fd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&theme=transparent&bg_color=151515&border_color=5a5a5a&title_color=00e5fd&text_color=ffffff&custom_title=Linguagens%20Mais%20Usadas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que trabalho:
 
