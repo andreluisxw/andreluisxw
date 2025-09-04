@@ -25,6 +25,14 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreluisxw&theme=black-ice" alt="GitHub Streak" /></a>
 </div>
 
+### 📊 Minhas Estatísticas no GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=black_ice&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&theme=black_ice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=black-ice)](https://git.io/streak-stats)
+
 ---
 
 ## Tecnologias que trabalho:
