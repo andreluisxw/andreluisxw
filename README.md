@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5fd,100:00b4ff&height=100&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=header"/>
 
 ## Olá, eu sou o André 👋
 
@@ -18,9 +19,13 @@
 <a href="mailto:andreluismaiajr@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=black-ice)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&theme=transparent&bg_color=151515&border_color=5a5a5a&title_color=00e5fd&text_color=ffffff&custom_title=Linguagens%20Mais%20Usadas)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/andreluisxw">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisxw&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+---
 
 ## Tecnologias que trabalho:
 
@@ -59,4 +64,4 @@
 </picture>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5fd,100:00b4ff&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A0000,100:de5252&height=100&section=footer"/> 
