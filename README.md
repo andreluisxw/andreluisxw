@@ -19,14 +19,10 @@
 <a href="mailto:andreluismaiajr@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## GitHub Stats:
-<div align="center">
-  <a href="https://github.com/andreluisxw">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/andreluisxw">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=dracula" alt="andreluisxw" />
-  </a>
-</div>
+ <p align="left">
+    <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=andreluisxw&show_icons=true&locale=en&theme=dracula" alt="andreluisxcw"/>
+  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluisxw&theme=dracula" alt="andreluisxw" />
+</p>
 
 ---
 
