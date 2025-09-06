@@ -3,7 +3,7 @@ name: Generate Pac-Man Game
 on:
   schedule:
     # A automação será executada a cada 24 horas.
-    - cron: "0 */24 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
   push:
     branches:
